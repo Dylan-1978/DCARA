@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 + Download the [PVTv2-B3](https://github.com/whai362/PVT/releases/download/v2/pvt_v2_b3.pth) weights to `./`
 
-### 2.2 Training
+### 1.2 Training
 
 Train DCARA on the train split of a dataset:
 
@@ -38,3 +38,5 @@ Train DCARA on the train split of a dataset:
 python train.py 
 ```
 
+### 1.3. Notice
+更多的工作细节将在后续补充
